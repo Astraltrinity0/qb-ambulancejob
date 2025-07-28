@@ -1,3 +1,5 @@
+Credit to the developers of QB-Core | Original Repo found [here.](https://github.com/qbcore-framework/qb-ambulancejob)
+
 ## Functions
 - Adds automatic billing for patient (Configurable)
   - Checks whether patient has enough money in bank. 
